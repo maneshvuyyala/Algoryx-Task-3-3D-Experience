@@ -9,14 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "latest",
     "@react-three/drei": "latest",
     "@react-three/fiber": "latest",
-    "three": "latest",
-    "vite": "latest",
+    "@vitejs/plugin-react": "latest",
+    "lucide-react": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "lucide-react": "latest"
-  },
-  "devDependencies": {}
+    "three": "latest",
+    "vite": "^8.3.1"
+  }
 }
